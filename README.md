@@ -9,7 +9,7 @@ This repository is a curated collection of my work from UCSD coursework, class p
 ### COGS 108 — *The Role of Music in UCSD Students' Study Habits and GPA*
 
 * Survey design, data collection, and analysis of how music influences academic performance.
-* Tools: Jupyter Notebook, Pandas, Matplotlib.
+* Tools: Jupyter Notebook, Pandas, Matplotlib, Scipy, Sklearn.
 
 ### DSC 30 — Programming Assignments (PA1–PA8)
 
