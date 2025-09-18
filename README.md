@@ -6,34 +6,6 @@ This repository is a curated collection of my work from UCSD coursework, class p
 
 ---
 
-## 📂 Repository Structure
-
-```
-my_works/
-├── Class_Projects
-│   ├── COGS_108
-│   │   └── The_Role_of_Music_in_UCSD_Students'_Study_Habits_and_GPA
-│   ├── DSC_30
-│   │   ├── dsc30-pa1 … pa8
-│   ├── DSC_80
-│   │   ├── Exploration-Recipe-Rating-vs-Complexity
-│   │   ├── gradebook_project
-│   │   └── language_models_project
-│   └── DSC_140
-│       └── super_hw
-├── Internships
-│   ├── APEXUS-TECH_LLC.
-│   │   ├── credit_spread_analysis
-│   │   ├── financial_sentiment_analysis
-│   │   ├── python_backtesting_frameworks_for_options_trading_evaluation
-│   │   └── us_market_sector_analysis
-│   └── Icarus_Funds
-│       └── intern_tasks
-└── README.md
-```
-
----
-
 ## 🎓 Class Projects
 
 ### COGS 108 — *The Role of Music in UCSD Students' Study Habits and GPA*
