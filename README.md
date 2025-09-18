@@ -83,7 +83,7 @@ This repository is a curated collection of my work from UCSD coursework, class p
 * **DSC 80 — Recipe Ratings**: Exploratory & statistical analysis with interactive HTML artifacts.
 * **COGS 108 — Music & GPA**: Built a full data pipeline and analysis from survey → EDA → insights.
 * **Credit Spread Analysis (APEXUS-TECH)**: End-to-end fixed-income analytics pipeline and client-ready report.
-* **US Market Sector Analysis (APEXUS-TECH)**: Top-5 rankings per sector and correlation studies.
+* **Financial Sentiment Analysis (APEXUS-TECH)**: NLP sentiment pipeline (FinBERT, VADER) with visualizations.
 * **Icarus Funds — Algorithms**: Iterative algorithmic research tasks (sanitized scripts & briefs).
 
 ---
