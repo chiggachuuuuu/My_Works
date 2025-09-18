@@ -170,13 +170,13 @@ pip install -r requirements.txt  # if present in a subproject
 
 ## 📄 License & Attribution
 
-* Code & notebooks: **MIT License** (adjust if needed).
+* Code & notebooks: **MIT License**.
 * Reports (DOCX/PDF) © Lin Tian, for portfolio use. Do not reuse without permission.
 
 ## 📬 Contact
 
-* **Email:** [yourname@ucsd.edu](mailto:yourname@ucsd.edu) (replace)
-* **LinkedIn:** [https://www.linkedin.com/in/YOUR\_HANDLE](www.linkedin.com/in/lt703) (replace)
+* **Email:** [lt3043@columbia.edu](mailto:lt3043@columbia.edu)
+* **LinkedIn:** [www.linkedin.com/in/lt703](www.linkedin.com/in/lt703)
 
 ```
 ```
