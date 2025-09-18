@@ -176,7 +176,7 @@ pip install -r requirements.txt  # if present in a subproject
 ## 📬 Contact
 
 * **Email:** [yourname@ucsd.edu](mailto:yourname@ucsd.edu) (replace)
-* **LinkedIn:** [https://www.linkedin.com/in/YOUR\_HANDLE](https://www.linkedin.com/in/YOUR_HANDLE) (replace)
+* **LinkedIn:** [https://www.linkedin.com/in/YOUR\_HANDLE](www.linkedin.com/in/lt703) (replace)
 
 ```
 ```
