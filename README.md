@@ -35,7 +35,7 @@ This repository is a curated collection of my work from UCSD coursework, class p
 * **Credit Spread Analysis**: corporate vs treasury yield spreads, dashboards, and reports.
 * **Financial Sentiment Analysis**: NLP sentiment pipeline (FinBERT, VADER) with visualizations.
 * **Options Trading Backtesting Frameworks**: evaluation of Python backtesting tools, strategy PnL analysis.
-* **US Market Sector Analysis**: sector metrics, company rankings, and correlation dashboards (DJIA, NASDAQ).
+* **US Market Sector Analysis**: sector metrics, company rankings, and correlation dashboards.
 
 ### Icarus Funds
 
@@ -46,8 +46,8 @@ This repository is a curated collection of my work from UCSD coursework, class p
 
 ## 🛠️ Tech Stack
 
-* **Languages**: Python, R, Java, SQL
-* **Libraries**: pandas, numpy, scikit‑learn, matplotlib, plotly, tidyverse
+* **Languages**: Python, R, Java, SQL, HTML
+* **Libraries**: pandas, numpy, scikit‑learn, matplotlib, plotly, seaborn, scipy, beautifulsoup, yfinance, re
 * **Tools**: Jupyter, R Markdown, Git, FRED API, Yahoo Finance
 
 ---
@@ -57,48 +57,6 @@ This repository is a curated collection of my work from UCSD coursework, class p
 * All internship artifacts are sanitized for public sharing. Proprietary data is excluded.
 * This repo is under the **MIT License**.
 
----
-
-## 🚀 Next Steps
-
-* Add project‑level `README.md` files with setup, results, and figures.
-* Include screenshots and dashboards in `figs/` or `assets/` folders.
-* Keep raw or proprietary data out of version control (use `.gitignore`).
-
----
-
-# Root `README.md` — Customized for `chiggachuuuuu/my_works`
-
-````md
-# Lin Tian — Portfolio Repository
-
-[![Repo](https://img.shields.io/badge/Repo-my_works-black.svg)](#) [![Python](https://img.shields.io/badge/Python-Data%20Science-blue.svg)](#) [![R](https://img.shields.io/badge/R-tidyverse-75aadb.svg)](#) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-A curated showcase of my coursework, capstone projects, and internship deliverables. Each subfolder has its own README (work in progress) with setup, usage, and results.
-
-> **Note on confidentiality:** Internship artifacts are sanitized and limited to what is publicly shareable. Proprietary data/code are excluded.
-
----
-
-## 🔎 Quick Start
-```bash
-# Clone
-git clone https://github.com/chiggachuuuuu/my_works.git
-cd my_works
-
-# (Optional) Create a Python env
-python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
-
-# Common tools
-pip install -r requirements.txt  # if present in a subproject
-````
-
-* Browse top-level folders:
-
-  * `Class_Projects/` — UCSD class projects & assignments (COGS 108, DSC 30, DSC 80, DSC 140)
-  * `Internships/` — APEXUS-TECH LLC and Icarus Funds work (reports, notebooks, scripts)
-
----
 
 ## 🗂 Repository Map
 
