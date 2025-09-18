@@ -91,7 +91,7 @@ This repository is a curated collection of my work from UCSD coursework, class p
 ## 🧭 How to Navigate
 
 * Each subfolder will get its own `README.md` covering: problem, data, methods, results, and how to run.
-* Large data (e.g., `*.csv`, model artifacts) may be gitignored; if missing, sub-readmes will include download instructions.
+* Large data (e.g., `*.csv`, model artifacts) may be gitignored
 
 ---
 
