@@ -38,9 +38,3 @@ This project builds **top-5 rankings** for each of the **11 GICS sectors** of th
   - `djia_bar.png`, `nasdaq_bar.png` (top correlated bars)
   - `djia_heatmap.png`, `nasdaq_heatmap.png` (constituent heatmaps)
 
-## Quickstart
-
-### 1) Environment
-```bash
-python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install pandas numpy yfinance matplotlib seaborn plotly jupyter
