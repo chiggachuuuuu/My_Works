@@ -1,7 +1,5 @@
 # My Works — Portfolio Repository
 
-[![Python](https://img.shields.io/badge/Python-3.x-informational.svg)](https://www.python.org/) [![R](https://img.shields.io/badge/R-4.x-blue.svg)](https://www.r-project.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 This repository is a curated collection of my work from UCSD coursework, class projects, and professional internships. It includes programming assignments, data science projects, and quantitative finance research. Each folder has its own `README.md` (or will soon) describing context, setup, and results.
 
 ---
