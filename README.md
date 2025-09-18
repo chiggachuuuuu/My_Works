@@ -75,14 +75,13 @@ This repository is a curated collection of my work from UCSD coursework, class p
 | **Internships**     | Icarus Funds — Intern Tasks (algos)                                   | `Internships/Icarus_Funds/intern_tasks/algos/`                                                | Python task scripts (sanitized).                                                           |
 | **Internships**     | Icarus Funds — Task Briefs                                            | `Internships/Icarus_Funds/intern_tasks/tasks/`                                                | Task descriptions (DOCX).                                                                  |
 
-> If a link 404s on GitHub web view, navigate via the sidebar—GitHub sometimes dislikes spaces/special characters in folder names.
 
 ---
 
 ## ✨ Highlights
 
-* **COGS 108 — Music & GPA**: Built a full data pipeline and analysis from survey → EDA → insights.
 * **DSC 80 — Recipe Ratings**: Exploratory & statistical analysis with interactive HTML artifacts.
+* **COGS 108 — Music & GPA**: Built a full data pipeline and analysis from survey → EDA → insights.
 * **Credit Spread Analysis (APEXUS-TECH)**: End-to-end fixed-income analytics pipeline and client-ready report.
 * **US Market Sector Analysis (APEXUS-TECH)**: Top-5 rankings per sector and correlation studies.
 * **Icarus Funds — Algorithms**: Iterative algorithmic research tasks (sanitized scripts & briefs).
